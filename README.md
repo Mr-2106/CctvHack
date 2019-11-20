@@ -1,8 +1,13 @@
 # HackCCTV
 Tutorial hack cctv termux jarak jauh no root
 
-# Cara Instal
-Silahkan baca selengkapnya di halaman
-<!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/hack-cctv-termux-jarak-jauh-no-root</code></pre>
-<!-- /wp:code -->
+# Cara Install Nya
+•apt install git -y
+•apt install python -y
+•apt install python2 -y
+•pip2 install requests
+•git clone https://github.com/Mr-2106/CctvHack.git
+•cd CctvHack
+•python2 HCCTV.py
+
+# Selamat Mencoba !
